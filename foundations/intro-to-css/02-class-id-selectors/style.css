@@ -1,0 +1,20 @@
+.red {
+    background-color: rgb(255, 100, 100);
+    color: #000000;
+    font-family: 'Verdana' 'DejaVu Sans' 'sans-sarif';
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#one {
+    font-size: 36px;
+    color:#0000ff;
+}
+
+#two {
+    background-color: hsl(150, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
